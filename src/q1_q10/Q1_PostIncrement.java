@@ -4,6 +4,11 @@ public class Q1_PostIncrement {
 
     public static void main(String[] args) {
 
+        /*
+            Asagidaki kod blogunda num1 degeri 9 olarak verildiginde
+            output ne olur?
+         */
+
         int num1 = 9;
 
         int num2 = num1++;
